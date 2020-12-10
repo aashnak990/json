@@ -1,6 +1,6 @@
 [
         {
-          "imageUrl": "./MediaFiles/Candidate-4.jpeg",
+          "imageUrl": "./MediaFiles/Candidate-2.jpeg",
 	        "Name" : "Anita Mishra"
         },
         {
@@ -8,7 +8,7 @@
 	        "Name" : "Rohit Mishra"
         },
         {
-          "imageUrl": "./MediaFiles/Candidate-3.jpeg",
+          "imageUrl": "./MediaFiles/Candidate-3.jpg",
 	        "Name" : "Jenny"
         },
         {
@@ -20,7 +20,7 @@
 	        "Name" : "Ben"
         },
 	      {
-          "imageUrl": "./MediaFiles/Candidate-2.jpeg",
+          "imageUrl": "./MediaFiles/Candidate-4.jpeg",
 	        "Name" : "Emma"
         }
 
