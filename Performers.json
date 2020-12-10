@@ -8,7 +8,7 @@
 	        "Name" : "Rohit Mishra"
         },
         {
-          "imageUrl": "./MediaFiles/Candidate-3.jpg,
+          "imageUrl": "./MediaFiles/Candidate-3.jpg",
 	        "Name" : "Jenny"
         },
         {
@@ -22,7 +22,7 @@
 	      {
           "imageUrl": "./MediaFiles/Candidate-6.jpeg",
 	        "Name" : "Emma"
-        }
+        },
 
 		    
 ]
