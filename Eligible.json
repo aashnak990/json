@@ -5,17 +5,17 @@
 	},
 	{
                 "Name":"Sachin Singh",
-                "imageUrl":"./MediaFiles/Candidate-1.jpeg",,
+                "imageUrl":"./MediaFiles/Candidate-1.jpeg",
                 "department":"Customer Service"
 	},
 	{
                "Name":"Rahat Madam",
-                "imageUrl":"./MediaFiles/Candidate-3.jpg",,
+                "imageUrl":"./MediaFiles/Candidate-3.jpg",
                 "department":"IT"
 	},
 	{
                 "Name":"Esha Verma",
-                "imageUrl":"./MediaFiles/Candidate-5.jpeg",,
+                "imageUrl":"./MediaFiles/Candidate-5.jpeg",
                 "department":"IT"
 	}
 	
