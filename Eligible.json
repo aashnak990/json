@@ -1,21 +1,21 @@
 [	{
                 "Name":"Pratiba Singh",
-                "imageUrl":"https://icons-for-free.com/iconfiles/png/512/business+costume+male+man+office+user+icon-1320196264882354682.png",
+                "imageUrl":"./MediaFiles/Candidate-2.jpeg",
                 "department":"IT"
 	},
 	{
                 "Name":"Sachin Singh",
-                "imageUrl":"https://icons-for-free.com/iconfiles/png/512/business+costume+male+man+office+user+icon-1320196264882354682.png",
+                "imageUrl":"./MediaFiles/Candidate-1.jpeg",,
                 "department":"Customer Service"
 	},
 	{
                "Name":"Rahat Madam",
-                "imageUrl":"https://icons-for-free.com/iconfiles/png/512/business+costume+male+man+office+user+icon-1320196264882354682.png",
+                "imageUrl":"./MediaFiles/Candidate-3.jpg",,
                 "department":"IT"
 	},
 	{
                 "Name":"Esha Verma",
-                "imageUrl":"https://icons-for-free.com/iconfiles/png/512/business+costume+male+man+office+user+icon-1320196264882354682.png",
+                "imageUrl":"./MediaFiles/Candidate-5.jpeg",,
                 "department":"IT"
 	}
 	
