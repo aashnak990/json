@@ -1,20 +1,20 @@
 [	{
-                "Name":"Pratiba Singh",
+                "name":"Pratiba Singh",
                 "imageUrl":"./MediaFiles/Candidate-2.jpeg",
                 "department":"IT"
 	},
 	{
-                "Name":"Sachin Singh",
+                "name":"Sachin Singh",
                 "imageUrl":"./MediaFiles/Candidate-1.jpeg",
                 "department":"Customer Service"
 	},
 	{
-               "Name":"Rahat Madam",
+               "name":"Rahat Madam",
                 "imageUrl":"./MediaFiles/Candidate-5.jpeg",
                 "department":"IT"
 	},
 	{
-                "Name":"Esha Verma",
+                "name":"Esha Verma",
                 "imageUrl":"./MediaFiles/Candidate-3.jpg",
                 "department":"IT"
 	}
