@@ -1,27 +1,27 @@
 [
         {
           "imageUrl": "./MediaFiles/Candidate-2.jpeg",
-	        "Name" : "Anita Mishra"
+	        "name" : "Anita Mishra"
         },
         {
           "imageUrl": "./MediaFiles/Candidate-1.jpeg",
-	        "Name" : "Rohit Mishra"
+	        "name" : "Rohit Mishra"
         },
         {
           "imageUrl": "./MediaFiles/Candidate-3.jpg",
-	        "Name" : "Jenny"
+	        "name" : "Jenny"
         },
         {
           "imageUrl": "./MediaFiles/Candidate-5.jpeg",
-	        "Name" : "Harsh"
+	        "name" : "Harsh"
         },
 	      {
           "imageUrl": "./MediaFiles/Candidate-6.jpeg",
-	        "Name" : "Ben"
+	        "name" : "Ben"
         },
 	      {
           "imageUrl": "./MediaFiles/Candidate-4.jpeg",
-	        "Name" : "Emma"
+	        "name" : "Emma"
         }
 
 		    
