@@ -9,9 +9,9 @@
         {
          "imageUrl": "./media/card2.png",
 	 "name":"Web Development From Scratch",
-         "instructor":"Priyanka Chaudhary, 22nd June – 30th June 2020",
+         "instructor":"Priyanka Chaudhary,22nd June–30th June 2020",
 	 "fee":"1500",
-         "tags":"Techniques, principles and methodologies usedto learn web development"
+         "tags":"Techniques,principles and methodologies usedto learn web development"
         },
         {
          "imageUrl": "./media/card3.png",
