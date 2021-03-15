@@ -1,7 +1,10 @@
 [
         {
-          "imageUrl": "./media/card1.png",
-	        "name" : "Anita Mishra"
+         "imageUrl": "./media/card1.png",
+	 "name":"Practical Guide to Web Development",
+         "instructor":"Ruchi Pareek, 25th June – 1st July 2020",
+	"fee":"1500",
+         "tags":"Get a Full Understanding of the WebDevelopment Process & Technologies"
         },
         {
           "imageUrl": "./media/card2.png",
