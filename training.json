@@ -4,24 +4,16 @@
 	        "name" : "Anita Mishra"
         },
         {
-          "imageUrl": "./media/card1.png",
+          "imageUrl": "./media/card2.png",
 	        "name" : "Rohit Mishra"
         },
         {
-          "imageUrl": "./media/card1.png",
+          "imageUrl": "./media/card3.png",
 	        "name" : "Jenny"
         },
         {
-          "imageUrl": "./media/card1.png",
+          "imageUrl": "./media/card4.jpg",
 	        "name" : "Harsh"
-        },
-	      {
-          "imageUrl": "./media/card1.png",
-	        "name" : "Ben"
-        },
-	      {
-          "imageUrl": "./media/card1.png",
-	        "name" : "Emma"
         }
 
 		    
