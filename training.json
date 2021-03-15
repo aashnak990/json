@@ -3,20 +3,29 @@
          "imageUrl": "./media/card1.png",
 	 "name":"Practical Guide to Web Development",
          "instructor":"Ruchi Pareek, 25th June – 1st July 2020",
-	"fee":"1500",
+	 "fee":"1500",
          "tags":"Get a Full Understanding of the WebDevelopment Process & Technologies"
         },
         {
-          "imageUrl": "./media/card2.png",
-	        "name" : "Rohit Mishra"
+         "imageUrl": "./media/card2.png",
+	 "name":"Web Development From Scratch",
+         "instructor":"Priyanka Chaudhary, 22nd June – 30th June 2020",
+	 "fee":"1500",
+         "tags":"Techniques, principles and methodologies usedto learn web development"
         },
         {
-          "imageUrl": "./media/card3.png",
-	        "name" : "Jenny"
+         "imageUrl": "./media/card3.png",
+	 "name":"Learn HTML5 Programming",
+         "instructor":"Brad Traversy, 25th June – 30th June 2020",
+	 "fee":"500",
+         "tags":"A beginner’s guide to learn HTML5"
         },
         {
-          "imageUrl": "./media/card4.jpg",
-	        "name" : "Harsh"
+         "imageUrl": "./media/card4.jpg",
+	 "name":"Web Design for Beginners",
+         "instructor":"Rakesh Jain, 18th June – 21st June 2020",
+	 "fee":"800",
+         "tags":"Web Design for Beginners: Real World Coding in HTML & CSS"
         }
 
 		    
