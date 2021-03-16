@@ -1,17 +1,17 @@
- [	"data"={
+ "data"=[	{
                 "session":"Refreshing basic concepts of solar energy",
                 "date":"18th June 2020",
                 "time":"10:30 AM – 12:30 PM (IST)"
-	};
-	"hi"={
+	},
+	{
                 "session":"Introduction to advanced concepts",
                 "date":"20th June 2020",
                 "time":"12:30 PM – 3:30 PM (IST)"
-	};
-	"my"={
+	},
+	{
                 "session":"Introduction to solar devices ",
                 "date":"22nd June 2020 ",
                 "time":"11:30 AM – 2:30 PM (IST)"
-	};
+	},
 	
 ]
