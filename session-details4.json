@@ -1,0 +1,17 @@
+ [	{
+                "session":"Basics of Web design",
+                "date":"22nd June 2020"
+                "time":"10:30 AM – 12:30 PM (IST)"
+	},
+	{
+                "session":"Web Design Requirments",
+                "date":"20th april 2020",
+                "time":"12:30 PM – 3:30 PM (IST)"
+	},
+	{
+                "session":"Web Advanced concepts",
+                "date":"22nd july 2020 ",
+                "time":"11:30 AM – 2:30 PM (IST)"
+	}
+	
+]

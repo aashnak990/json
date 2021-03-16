@@ -1,0 +1,17 @@
+ [	{
+                "session":"Basics of Html5",
+                "date":"22nd June 2020"
+                "time":"10:30 AM – 12:30 PM (IST)"
+	},
+	{
+                "session":"Introduction Html5 Changes",
+                "date":"20th april 2020",
+                "time":"12:30 PM – 3:30 PM (IST)"
+	},
+	{
+                "session":"Html5 Advanced concepts",
+                "date":"22nd july 2020 ",
+                "time":"11:30 AM – 2:30 PM (IST)"
+	}
+	
+]
