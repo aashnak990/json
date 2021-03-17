@@ -1,5 +1,5 @@
 [{
-	"hi":["trainingName": "Practical Guide to Web Development",
+	"trainingName": "Practical Guide to Web Development",
 	"trainingId":212,
 	"trainer":"Ruchi Pareek, CII",
 	"trainingDate": "17 June 2021, 10:00 AM -6:30 PM IST",
@@ -7,7 +7,6 @@
 	"trainingImage":"images/training1.jpg",
 	"assessmentDate":"22 June, 2021",
 	"cost": "1500 INR",
-	      ]
 	"sessionDetails":[
 		{
 			"sessionName":"Refreshing basic concepts of solar energy",
