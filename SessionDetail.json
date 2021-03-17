@@ -1,11 +1,12 @@
 [{
 	"trainingName": "Practical Guide to Web Development",
+	"trainingDuration":"18th June 2021 to 21st June 2021",
 	"trainingId":212,
 	"trainer":"Ruchi Pareek, CII",
 	"trainingDate": "17 June 2021, 10:00 AM -6:30 PM IST",
 	"trainingDescription":"Get a Full Understanding of the WebDevelopment Process & Technologies.",
 	"trainingImage":"images/training1.jpg",
-	"assessmentDate":"22 June, 2021",
+	"assessmentDate":"22 June, 2020",
 	"cost": "1500 INR",
 	"sessionDetails":[
 		{
@@ -30,12 +31,13 @@
 },
 {
 	"trainingName": "Web Development From Scratch",
+	"trainingDuration":"22th June 2021 to 28th June 2021",
 	"trainingId":213,
 	"trainer":"Priyanka Chaudhary, CII",
 	"trainingDate": "17 June 2021, 10:00 AM -6:30 PM IST",
 	"trainingDescription":"Techniques,principles and methodologies usedto learn web development",
 	"trainingImage":"images/training2.jpg",
-	"assessmentDate":"22 June, 2021",
+	"assessmentDate":"29 June, 2021",
 	"cost": "1500 INR",
 	"sessionDetails":[
 		{
@@ -60,12 +62,13 @@
 },
 {
 	"trainingName": "Learn HTML5 Programming",
+	"trainingDuration":"5th June 2021 to 22nd June 2021",
 	"trainingId":214,
 	"trainer":"Brad Traversy",
 	"trainingDate": "17 June 2021, 10:00 AM -6:30 PM IST",
 	"trainingDescription":"A beginner’s guide to learn HTML5 in a simple way with Brad",
 	"trainingImage":"images/training1.jpg",
-	"assessmentDate":"22 June, 2021",
+	"assessmentDate":"23 June, 2021",
 	"cost": "500 INR",
 	"sessionDetails":[
 		{
@@ -90,6 +93,7 @@
 },
  {
 	"trainingName": "Web Design for Beginners",
+	 "trainingDuration":"8th June 2021 to 21st June 2021",
 	"trainingId":212,
 	"trainer":"Rakesh Jain",
 	"trainingDate": "17 June 2021, 10:00 AM -6:30 PM IST",
