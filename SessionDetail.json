@@ -7,6 +7,7 @@
 	"trainingImage":"images/training1.jpg",
 	"assessmentDate":"22 June, 2021",
 	"cost": "1500 INR",
+	      ]
 	"sessionDetails":[
 		{
 			"sessionName":"Refreshing basic concepts of solar energy",
@@ -26,7 +27,7 @@
 			"sessionDate":"18 June, 2021",
 			"sessionTime":"04:30 PM - 05:30 PM IST"
 		}
-	]]
+	]
 },
 {
 	"trainingName": "Web Development From Scratch",
