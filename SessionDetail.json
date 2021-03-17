@@ -1,5 +1,5 @@
 [{
-	"trainingName": "Practical Guide to Web Development",
+	"hi":["trainingName": "Practical Guide to Web Development",
 	"trainingId":212,
 	"trainer":"Ruchi Pareek, CII",
 	"trainingDate": "17 June 2021, 10:00 AM -6:30 PM IST",
@@ -26,7 +26,7 @@
 			"sessionDate":"18 June, 2021",
 			"sessionTime":"04:30 PM - 05:30 PM IST"
 		}
-	]
+	]]
 },
 {
 	"trainingName": "Web Development From Scratch",
