@@ -5,7 +5,7 @@
 	"trainer":"Ruchi Pareek, CII",
 	"trainingDate": "17 June 2021, 10:00 AM -6:30 PM IST",
 	"trainingDescription":"Get a Full Understanding of the WebDevelopment Process & Technologies.",
-	"trainingImage":"./media/card1.png",
+	"imageUrl": "./media/card1.png",
 	"assessmentDate":"22 June, 2020",
 	"cost": "1500 INR",
 	"sessionDetails":[
@@ -36,7 +36,7 @@
 	"trainer":"Priyanka Chaudhary, CII",
 	"trainingDate": "17 June 2021, 10:00 AM -6:30 PM IST",
 	"trainingDescription":"Techniques,principles and methodologies usedto learn web development",
-	"trainingImage":"./media/card2.png",
+	"imageUrl": "./media/card2.png",
 	"assessmentDate":"29 June, 2021",
 	"cost": "1500 INR",
 	"sessionDetails":[
@@ -67,7 +67,7 @@
 	"trainer":"Brad Traversy",
 	"trainingDate": "17 June 2021, 10:00 AM -6:30 PM IST",
 	"trainingDescription":"A beginner’s guide to learn HTML5 in a simple way with Brad",
-	"trainingImage":"./media/card3.png",
+	"imageUrl": "./media/card3.png",
 	"assessmentDate":"23 June, 2021",
 	"cost": "500 INR",
 	"sessionDetails":[
@@ -98,7 +98,7 @@
 	"trainer":"Rakesh Jain",
 	"trainingDate": "17 June 2021, 10:00 AM -6:30 PM IST",
 	"trainingDescription":"Web Design for Beginners: Real World Coding in HTML & CSS",
-	"trainingImage":"./media/card4.jpg",
+	"imageUrl": "./media/card4.jpg",
 	"assessmentDate":"22 June, 2021",
 	"cost": "800 INR",
 	"sessionDetails":[
