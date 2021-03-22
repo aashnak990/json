@@ -1,11 +1,10 @@
-[{
+[{      "imageUrl": "./media/card1.png",
 	"trainingName": "Practical Guide to Web Development",
 	"trainingDuration":"18th June 2021 to 21st June 2021",
 	"trainingId":212,
 	"trainer":"Ruchi Pareek, CII",
 	"trainingDate": "17 June 2021, 10:00 AM -6:30 PM IST",
 	"trainingDescription":"Get a Full Understanding of the WebDevelopment Process & Technologies.",
-	"imageUrl": "./media/card1.png",
 	"assessmentDate":"22 June, 2020",
 	"cost": "1500 INR",
 	"sessionDetails":[
