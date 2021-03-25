@@ -22,7 +22,7 @@
 			"sessionTime":"01:30 PM - 03:30 PM IST"
 		},
 		{
-			"sessionName":"solar devices use",
+			"sessionName":"Solar devices use",
 			"sessionId":803,
 			"sessionDate":"18 June, 2021",
 			"sessionTime":"04:30 PM - 05:30 PM IST"
@@ -41,7 +41,7 @@
 	"cost": "1500 INR",
 	"sessionDetails":[
 		{
-			"sessionName":"Basics of Html",
+			"sessionName":"Basics of HTML",
 			"sessionId":901,
 			"sessionDate":"18 June, 2021",
 			"sessionTime":"10:30 AM - 12:30 PM IST"
@@ -84,7 +84,7 @@
 			"sessionTime":"01:30 PM - 03:30 PM IST"
 		},
 		{
-			"sessionName":"HTML5 Advanced concepts",
+			"sessionName":"HTML5 Advanced Concepts",
 			"sessionId":103,
 			"sessionDate":"18 June, 2021",
 			"sessionTime":"04:30 PM - 05:30 PM IST"
@@ -103,7 +103,7 @@
 	"cost": "800 INR",
 	"sessionDetails":[
 		{
-			"sessionName":"Basics of Web design",
+			"sessionName":"Basics of Web Design",
 			"sessionId":801,
 			"sessionDate":"18 June, 2021",
 			"sessionTime":"10:30 AM - 12:30 PM IST"
@@ -115,7 +115,7 @@
 			"sessionTime":"01:30 PM - 03:30 PM IST"
 		},
 		{
-			"sessionName":"Web Advanced concepts",
+			"sessionName":"Web Advanced Concepts",
 			"sessionId":803,
 			"sessionDate":"18 June, 2021",
 			"sessionTime":"04:30 PM - 05:30 PM IST"
